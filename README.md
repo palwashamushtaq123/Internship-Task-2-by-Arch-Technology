@@ -22,7 +22,7 @@ To improve model performance and ensure data quality:
 - Numerical features were selected for model training
 - Missing and unnecessary information was cleaned
 
-  **Machine Learning Model**
+**Machine Learning Model**
 
 A Linear Regression model was trained using the following input features:
 - Open
